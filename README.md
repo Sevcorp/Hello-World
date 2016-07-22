@@ -1,6 +1,5 @@
 # Hello-World
-coding is my hobby
 
-I am a fast learner passionate about coding
-I will do whatever it takes to learn coding
-
+Hi People!
+Am a fast learner passionate about coding
+i believe it can apply in my day to day life
